@@ -1,0 +1,10 @@
+ib_connection:
+  host: "127.0.0.1"
+  port: 7496
+  client_id: 999
+
+symbol: "XINA50"
+exchange: "SGX"
+currency: "USD"
+lastTradeDateOrContractMonth: "20250227"
+localSymbol: "CNG25"
